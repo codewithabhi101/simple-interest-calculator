@@ -16,3 +16,9 @@ Run the script and enter the required values.
 
 ## Author
 Abhi
+
+<<<<<<< HEAD
+(old content)
+=======
+(new content)
+>>>>>>> b429d5d
